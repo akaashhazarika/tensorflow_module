@@ -1,5 +1,6 @@
 numpy
 pandas
 matplotlib
+tensorflow
 tensorflow_datasets
 nose
