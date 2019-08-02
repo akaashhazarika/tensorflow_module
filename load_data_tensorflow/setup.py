@@ -8,4 +8,6 @@ setup(name='load_data_tensorflow',
       author_email='akaashhazarika@gmail.com',
       license='MIT',
       packages=['load_data_tensorflow'],
+      test_suite='nose.collector',
+      tests_require=['nose'],
       zip_safe=False)
