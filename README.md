@@ -1,7 +1,7 @@
 Python package to load Google Ad's API request directly into Tensorflow. 
 It supports two functionalities:
 1. Download all of the API requests into a CSV. Use the the CSV to load data into tensorflow. 
-2. Support data load in tensorflow in a streaming manner. Uses generators to achieve this. 
+2. Support data input in a streaming manner. Uses generators to achieve this. 
 
 
 
