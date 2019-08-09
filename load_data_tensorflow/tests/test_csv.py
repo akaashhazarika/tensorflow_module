@@ -4,7 +4,7 @@ from load_data_tensorflow import csv
 
 
 class CSV(TestCase):
-<<<<<<< HEAD
+
     def test_column_names(self):
         test_result = [[[['mangoes', 4,], ['Python codes', 6]]], ['Keyword', 'Impressions', 'Cost_Micros']]
         column_names = test_result[1]
